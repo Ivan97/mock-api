@@ -1,4 +1,4 @@
-#!/usr/local/bin node --harmony
+#!/usr/bin/env nodejs --harmony
 
 var pathUtil = require('path');
 var program = require('commander');
